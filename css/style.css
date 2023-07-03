@@ -45,6 +45,7 @@
  }
  .con {
     display: flex;
+    width: 100%;
  }
  .in-1 {
     width: 370px;
